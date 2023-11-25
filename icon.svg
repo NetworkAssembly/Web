@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+	<style>
+		* {
+			fill: #000;
+		}
+
+		@media (prefers-color-scheme: dark) {
+			* {
+				fill: #fff;
+			}
+		}
+	</style>
 	<path d="M71.341,13L51.686,67H34.659l19.654-54L71.341,13z M28.314,13L8.659,67h17.027l19.654-54L28.314,13z" />
 </svg>
